@@ -5,17 +5,19 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=7yzx&show_icons=true)
 
 **✨ Tech stacks currently using** <br>
-<br>
-%%<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>%%
-<br>
+3DGS
+SLAM
+ROS1&2
+
+pytorch
+C++
+
 
 <br>
 <br>
 
 **🌱 Looking forward to learn:** <br>
 <br>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+Distribute
+CUDA
 <br>
