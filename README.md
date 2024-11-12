@@ -6,9 +6,9 @@
 
 **✨ Tech stacks currently using** <br>
 <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+%%<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>%%
 <br>
 
 <br>
