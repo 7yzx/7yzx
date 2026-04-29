@@ -5,15 +5,13 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=7yzx&show_icons=true)
 
 **✨ Tech stacks currently using** <br>
-VLM， 3DGS
-
-Python，Pytorch
+VLM/Agentic RL/AIGC/3DCV
 
 <h3>Resume</h3>
 
-<h3>实习经历</h3>
-2026.01--2026.04。杭州 达摩院 利用视频生成补全稀疏视角（Video Diffusion）
+- 2026.01--2026.04 Hangzhou DAMO Video Diffusion 
 
-2025.10--2025.12 武汉 华为   长序列前馈式重建（FeedForward reconstruction）
+- 2025.10--2025.12 WuHan Huawei  FeedForward reconstruction
 
-2025.02--2025.09 武汉 天远视 3DGS，SLAM
+  
+- 2025.02--2025.09 WuHan Farsee2 3DCV 
