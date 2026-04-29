@@ -7,11 +7,9 @@
 **✨ Tech stacks currently using** <br>
 VLM/Agentic RL/AIGC/3DCV
 
-<h3>Resume</h3>
-
+**✨ Internship**
 - 2026.01--2026.04 Hangzhou DAMO Video Diffusion 
 
 - 2025.10--2025.12 WuHan Huawei  FeedForward reconstruction
-
   
 - 2025.02--2025.09 WuHan Farsee2 3DCV 
